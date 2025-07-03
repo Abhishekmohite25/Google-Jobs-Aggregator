@@ -79,9 +79,17 @@ Process:
   - KPI 2: Job distribution by cities
 - Store aggregated data for reporting purposes
 
+
+### Automated Execution  
+The project includes an automated workflow that:
+- Runs all pipeline tasks in sequence
+- Schedules execution at fixed intervals (e.g., daily)
+- Handles error recovery and notifications
+
   
 ![Image](https://github.com/Abhishekmohite25/Google-Jobs-Aggregator/blob/bc57d7f63870fbebf6e486d6c9585cb9a716acb3/Images/Google_Jobs_Aggregator_WorkFlow.png)  
 
+  
 
 
 ![Image](https://github.com/Abhishekmohite25/Google-Jobs-Aggregator/blob/d8c044079a928466ff7e642a7ce4bbe9770005d2/Images/Dashboard1.png)  
