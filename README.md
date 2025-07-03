@@ -86,16 +86,18 @@ Process:
 - Task Dependencies: Proper sequencing of Bronze → Silver → Gold layers
 - Error Handling: Robust error management and recovery
 - Monitoring: Built-in logging and alerting capabilities
-
+  
   
 ![Image](https://github.com/Abhishekmohite25/Google-Jobs-Aggregator/blob/bc57d7f63870fbebf6e486d6c9585cb9a716acb3/Images/Google_Jobs_Aggregator_WorkFlow.png)  
+  
+  
+## Top Companies Hiring Dashboard
+  
+  
+![Image](https://github.com/Abhishekmohite25/Google-Jobs-Aggregator/blob/d8c044079a928466ff7e642a7ce4bbe9770005d2/Images/Dashboard1.png)  
+  
+  
+## Job Demand by City Dashboard
 
   
-
-
-![Image](https://github.com/Abhishekmohite25/Google-Jobs-Aggregator/blob/d8c044079a928466ff7e642a7ce4bbe9770005d2/Images/Dashboard1.png)  
-
-
-
-
 ![Image](https://github.com/Abhishekmohite25/Google-Jobs-Aggregator/blob/d8c044079a928466ff7e642a7ce4bbe9770005d2/Images/Dashboard2.png)  
