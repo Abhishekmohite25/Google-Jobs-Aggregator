@@ -80,11 +80,12 @@ Process:
 - Store aggregated data for reporting purposes
 
 
-### Automated Execution  
-The project includes an automated workflow that:
-- Runs all pipeline tasks in sequence
-- Schedules execution at fixed intervals (e.g., daily)
-- Handles error recovery and notifications
+## Automation  
+### Workflow Features  
+- Scheduled Execution: Automated daily pipeline runs
+- Task Dependencies: Proper sequencing of Bronze → Silver → Gold layers
+- Error Handling: Robust error management and recovery
+- Monitoring: Built-in logging and alerting capabilities
 
   
 ![Image](https://github.com/Abhishekmohite25/Google-Jobs-Aggregator/blob/bc57d7f63870fbebf6e486d6c9585cb9a716acb3/Images/Google_Jobs_Aggregator_WorkFlow.png)  
